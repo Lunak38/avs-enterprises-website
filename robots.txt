@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lunak38.github.io/avs-enterprises-website/sitemap.xml
